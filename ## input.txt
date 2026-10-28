@@ -1,0 +1,9 @@
+## input we need from the user 
+# total rent 
+# total food ordered for snacking 
+# electricity units spend
+# charge per unit
+
+
+## output 
+# total amount you have to pay
